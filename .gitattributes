@@ -1,4 +1,4 @@
 # Linguist overrides
 *.Rmd linguist-detectable=true
 *.csv linguist-detectable=true
-*.slsx linguist-detectable=true
+*.xlsx linguist-detectable=true
